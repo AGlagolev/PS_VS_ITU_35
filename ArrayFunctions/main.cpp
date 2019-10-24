@@ -4,6 +4,7 @@ using namespace std;
 const int ROWS = 4;
 const int COLS = 5;
 
+
 void FillRand(int Arr[], const int n);
 void FillRand(double Arr[], const int n);
 void FillRand(char Arr[], const int n);
